@@ -6,10 +6,10 @@ package com.ygaps.androidlogin.manager;
 
 public class Constants {
     //DEV
-    public static final String APIEndpoint = "https://test.ygaps.com/";
+    public static final String APIEndpoint = "http://test.ygaps.com/";
 
     // PRO
-//    public static final String APIEndpoint = "https://test.ygaps.com/";
+//    public static final String APIEndpoint = "http://test.ygaps.com/";
 
     public static final long expire_token = 24*60*60 ;
 }
